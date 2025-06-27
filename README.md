@@ -1,5 +1,5 @@
 # ai-hotel-assistant
-Multilingual AI assistant for hotel customer service, built with Python and Streamlit
+
 🤖 Soraya - AI Assistant for Hotel El Norcy
 Soraya is a multilingual AI agent built with Python and Streamlit, designed to help hotel guests ask questions in English, Spanish, or French.
 
