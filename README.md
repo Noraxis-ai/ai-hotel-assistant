@@ -36,8 +36,8 @@ OpenAI API: Utilizes gpt-3.5-turbo for natural language understanding (NLU) and 
 
 Langdetect: For robust and automatic language detection of user inputs.
 
-API Configuration
-Your OpenAI API Key (OPENAI_API_KEY) is securely managed as a Secret within the Hugging Face Space settings. It is not exposed in the public codebase.
+API Configuration:
+My OpenAI API Key (OPENAI_API_KEY) is securely managed as a Secret within the Hugging Face Space settings. It is not exposed in the public codebase.
 
 Deployment
 This AI assistant is deployed on Hugging Face Spaces using the Streamlit SDK. All necessary dependencies are specified in the requirements.txt file.
